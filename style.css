@@ -1,0 +1,46 @@
+.heading{
+
+    border: 2px solid grey;
+    margin:0px;
+    color:maroon;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    box-shadow: 4px,4px,crimson;
+    width: 100%;
+}
+
+.note{
+
+ color:black;
+ font-size: 20px;
+ border: 3;
+ 
+}
+
+.footer{
+
+    position: fixed;
+    color: midnightblue;
+    font-size: 25px;
+    bottom: 0px;
+    width: 100%;
+    font-family: 'Ephesis', cursive;
+    margin: 0px;
+    text-align: center;
+    line-height: 3;
+    background-color: palevioletred;
+}
+
+
+canvas{
+
+    border: 2px solid mediumseagreen;
+    border-radius: 30px;
+    box-shadow: 4px,4px salmon ;
+}
+
+video{
+
+    margin-top: 100px;
+    margin-left: 75px;
+}
